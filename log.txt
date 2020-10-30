@@ -1,0 +1,2 @@
+deposito: 11:12:13
+transaccion: 11:12:13
